@@ -23,6 +23,7 @@ This repository contains a list of the main courses and certifications I have co
 - **AWS Partner: Sales Accreditation (Business)** – AWS Training, 2024
 
 ## 🛠️ Tools & Methodologies
+- **Project Management with AI Masterclass** - ModernPMO, 2025
 - **Agile Methods: From A to Z** – Udemy, 2024
 - **Linux for Developers (Terminal, Shell, Apache, etc.)** – Udemy, 2024
 - **Git and GitHub: From Basic to Advanced** – Udemy, 2024
